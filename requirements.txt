@@ -1,0 +1,19 @@
+appdirs==1.4.4
+attrs @ file:///C:/b/abs_09s3y775ra/croot/attrs_1668696195628/work
+black==19.10b0
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+click==8.0.3
+flake8 @ file:///opt/conda/conda-bld/flake8_1648129545443/work
+importlib-metadata @ file:///C:/ci/importlib-metadata_1648562631189/work
+isort @ file:///tmp/build/80754af9/isort_1628603791788/work
+mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
+mypy-extensions==0.4.3
+pathspec @ file:///C:/b/abs_9cu5_2yb3i/croot/pathspec_1674681579249/work
+pycodestyle @ file:///tmp/build/80754af9/pycodestyle_1636635402688/work
+pyflakes @ file:///tmp/build/80754af9/pyflakes_1636644436481/work
+regex @ file:///C:/ci/regex_1658240061426/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+typed-ast @ file:///C:/ci/typed-ast_1624953789477/work
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+wincertstore==0.2
+zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
